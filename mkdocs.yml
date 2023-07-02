@@ -1,0 +1,44 @@
+site_name: Fundamentos Electronica Digital
+site_url: 
+site_description: Aprende electronica digital de manera sencilla y rápida.
+
+repo_url: https://github.com/navarroceti/electronica_digital
+repo_name: navarroceti/electronica_digital
+
+theme:
+  name: material
+  logo: assets/digital.png
+  favicon: assets/digital.png
+  features:
+    - navigation.instant
+    - navigation.top
+  palette:
+    primary: black
+
+markdown_extensions:
+  - meta
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  
+plugins:
+ - mkdocs-jupyter:
+    include_source: True
+ - search
+ - social
+
+edit_uri: ""
+
+nav:
+  - Home: 'index.md'
+  - 00. Getting Started with PyTorch: '00_ED_fundamentos.ipynb'
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: 
+    - icon: fontawesome/brands/github
+      link: 
+    - icon: fontawesome/brands/youtube
+      link: 
