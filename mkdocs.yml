@@ -1,5 +1,5 @@
 site_name: Fundamentos Electronica Digital
-site_url: 
+site_url: https://imperiodragon.com
 site_description: Aprende electronica digital de manera sencilla y rápida.
 
 repo_url: https://github.com/navarroceti/electronica_digital
@@ -37,8 +37,8 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/twitter
-      link: 
+      link: https://imperiodragon.com
     - icon: fontawesome/brands/github
-      link: 
+      link: https://imperiodragon.com
     - icon: fontawesome/brands/youtube
-      link: 
+      link: https://imperiodragon.com
