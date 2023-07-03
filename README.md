@@ -6,7 +6,7 @@ Bienvenido al curso [Electronica digital]() que busca ser una introducción prac
 
 * [Materiales/Esquema del curso]()
 * [Acerca del curso]()
-* [Estatus]() (Progreso de creacion).
+* [Estatus]() (Progreso de creación).
 
 
 ## Materiales/esquema del curso
