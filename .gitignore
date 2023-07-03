@@ -171,3 +171,5 @@ flagged/
 # Docs
 .cache
 mkdocs-material-insiders
+docs/*.ipynb
+docs/*.md

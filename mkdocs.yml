@@ -25,15 +25,18 @@ markdown_extensions:
   
 plugins:
  - mkdocs-jupyter:
-    include_source: True
+    include_source: False
+    ignore_h1_titles: True
+    show_input: False
+    no_input: True
  - search
  - social
 
 edit_uri: ""
 
 nav:
-  - Home: 'index.md'
-  - 00. Getting Started with PyTorch: '00_ED_fundamentos.ipynb'
+  - Inicio: 'index.md'
+  - 00_Fundamentos: '00_ED_fundamentos.ipynb'
 
 extra:
   social:
